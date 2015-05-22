@@ -1,0 +1,20 @@
+{
+  "name": "select2",
+  "version": "3.3.2",
+  "description": "Select2 =======",
+  "main": "select2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "select2.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolster/select2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolster/select2/issues"
+  },
+  "homepage": "https://github.com/bolster/select2"
+}
